@@ -1,0 +1,19 @@
+# Build results
+[Dd]ebug/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+# Build and Object Folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Nuget packages directory
+packages/
+
+#Backup file
+*.bak
